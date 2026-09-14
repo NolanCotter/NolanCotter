@@ -1,16 +1,18 @@
+# Hi there, I'm Nolan (@NolanCotter)
+
 <!-- readme-pet: Mochi (Lv.1 egg) — auto-updated by GitHub Actions -->
 
-> Mochi — level 1 · egg
+> 🐣 **Mochi** — level 1 · egg · 🥚 egg
 
 ![Mochi — a readme-pet](https://raw.githubusercontent.com/NolanCotter/readme-pet/main/assets/pet.svg)
 
-> [streak] 0 day streak · [commits] `0` all-time
+> 🔥 **0 day streak** · 📝 `0` commits all-time
 
-> HUNGER ██████████ 100% · HEALTH ███████░░░ 70% · HAPPY ░░░░░░░░░░ 0%
-> *This pet feeds on commits — silence makes it sick.* - [readme-pet](https://github.com/NolanCotter/readme-pet)
+> 🍖 ██████████ 100% hunger · ⚡ █████████░ 90% health · 💖 █░░░░░░░░░ 10% happiness
+> *This pet feeds on commits — silence makes it sick.* → [readme-pet](https://github.com/NolanCotter/readme-pet)
 
 
-### Commit Arbiter
+### 🐾 Commit Arbiter
 
 This pet feeds on my commits. **Every push feeds it** — silence makes it hungry, then sad, then sick. It evolves as I keep streaks alive.
 
@@ -57,7 +59,7 @@ This pet feeds on my commits. **Every push feeds it** — silence makes it hungr
 
 ---
 
-### 🔗 Connect
+### Connect
 <p align="center">
 <a href="https://www.linkedin.com/in/nolan-cotter-989025391/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -66,7 +68,7 @@ This pet feeds on my commits. **Every push feeds it** — silence makes it hungr
 
 ---
 
-### 📊 Activity
+### Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NolanCotter&bg_color=dad7cd&color=3a5a40&line=588157&point=344e41&area=true&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NolanCotter&color=ff69b4&style=for-the-badge)
