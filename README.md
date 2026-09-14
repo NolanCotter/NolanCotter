@@ -1,36 +1,34 @@
-# Hi there, I'm Nolan (@NolanCotter)
-
 <!-- readme-pet: Mochi (Lv.1 egg) — auto-updated by GitHub Actions -->
 
-> 🐣 **Mochi** — level 1 · egg · 🥚 egg
+> Mochi — level 1 · egg
 
 ![Mochi — a readme-pet](https://raw.githubusercontent.com/NolanCotter/readme-pet/main/assets/pet.svg)
 
-> 🔥 **0 day streak** · 📝 `0` commits all-time
+> [streak] 0 day streak · [commits] `0` all-time
 
-> 🍖 ██████████ 100% hunger · ⚡ █████████░ 90% health · 💖 █░░░░░░░░░ 10% happiness
-> *This pet feeds on commits — silence makes it sick.* → [readme-pet](https://github.com/NolanCotter/readme-pet)
+> HUNGER ██████████ 100% · HEALTH ███████░░░ 70% · HAPPY ░░░░░░░░░░ 0%
+> *This pet feeds on commits — silence makes it sick.* - [readme-pet](https://github.com/NolanCotter/readme-pet)
 
 
-### 🐾 Commit Arbiter
+### Commit Arbiter
 
 This pet feeds on my commits. **Every push feeds it** — silence makes it hungry, then sad, then sick. It evolves as I keep streaks alive.
 
-### 🚀 About Me
+### About Me
 * **Currently working on:** A secure P2P messaging protocol using **QUIC** and a custom messaging app for my band.
 * **Learning:** Deep diving into **Rust** and **Svelte**, plus mastering automation with **GitHub Actions**.
 * **Fun fact:** I’m obsessed with making everyday security practical, accessible, and user-friendly.
 
 ---
 
-### 🛠 Technical Focus
+### Technical Focus
 * **Networking:** Deep dive into QUIC stack implementation and congestion control.
 * **Frontend:** Transitioning full-time into SvelteKit for high-performance reactive UI.
 * **Automation:** Writing custom GitHub Actions to optimize CI/CD pipelines.
 
 ---
 
-### 📦 Featured Projects
+### Featured Projects
 | Project | Tech Stack | Status |
 | :--- | :--- | :--- |
 | [**freedom-network**](https://github.com/NolanCotter/freedom-network) | Rust, QUIC | Pre-Beta |
@@ -38,7 +36,7 @@ This pet feeds on my commits. **Every push feeds it** — silence makes it hungr
 
 ---
 
-### 💻 Languages & Tools
+### Languages & Tools
 <p align="center">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
@@ -50,7 +48,7 @@ This pet feeds on my commits. **Every push feeds it** — silence makes it hungr
 
 ---
 
-### 📈 Developer Metrics
+### Developer Metrics
 | Stat | Value |
 | :--- | :--- |
 | **Primary Focus** | Systems Programming / P2P |
