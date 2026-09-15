@@ -1,21 +1,5 @@
 # Hi there, I'm Nolan (@NolanCotter)
 
-<!-- readme-pet: Mochi (Lv.1 egg) — auto-updated by GitHub Actions -->
-
-> Mochi — level 1 · egg
-
-![Mochi — a readme-pet](https://raw.githubusercontent.com/NolanCotter/readme-pet/main/assets/pet.svg)
-
-> [streak] 0 day streak · [commits] `0` all-time
-
-> HUNGER ██████████ 100% · HEALTH ███████░░░ 70% · HAPPY ░░░░░░░░░░ 0%
-> *This pet feeds on commits — silence makes it sick.* - [readme-pet](https://github.com/NolanCotter/readme-pet)
-
-
-### Commit Arbiter
-
-This pet feeds on my commits. **Every push feeds it** — silence makes it hungry, then sad, then sick. It evolves as I keep streaks alive.
-
 
 ### About Me
 * **Currently working on:** A secure P2P messaging protocol using **QUIC** and a custom messaging app for my band.
