@@ -1,5 +1,3 @@
 # Nolan
 
-Student · Developer
-
-**Rust · AI · Linux · Open Source**
+**[Website](https://nolancotter.ca)**
